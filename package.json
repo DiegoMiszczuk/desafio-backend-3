@@ -1,0 +1,17 @@
+{
+  "name": "desafio-3-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Diego Miszczuk",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.18.2",
+    "g": "^2.0.1",
+    "nodemon": "^2.0.22"
+  }
+}
